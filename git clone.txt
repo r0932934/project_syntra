@@ -1,0 +1,13 @@
+git clone "link_repository"
+git add .
+git commit -m "message"
+git push
+git pull
+
+1.git branch 'name_branch'
+2.git checkout 'branch'
+3. git push
+
+in main branch:
+1.git merge 'name_branch'
+2. git push
